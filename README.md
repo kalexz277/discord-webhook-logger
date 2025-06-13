@@ -16,4 +16,4 @@ a simple discord keylogger that also grabs the users pc info, it uses python.
 3. next you have to save the file (file - save), and then you can use it by just running it. (or sending it to someone)
 
 ### important note:
-to stop the script open your task manager and search for "python", click on it and end the task and it will immediately stop the script.
+to stop the script open your task manager and search for "python", click on it and end the task and it will immediately stop the script. also i would **highly** recommend obfuscating the script before sending it to someone so they cannot view the code.
