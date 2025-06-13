@@ -1,7 +1,7 @@
 # discord-webhook-logger
 a simple discord keylogger that also grabs the users pc info, it uses python.
 
-**IMPORTANT NOTE: I DO NOT CONDONE THE USAGE OF THIS SCRIPT AGAISNT OTHERS, ANY DAMAGE DONE IS COMPLETELY ON YOU.**
+**IMPORTANT NOTE: I DO NOT CONDONE THE USAGE OF THIS SCRIPT AGAISNT OTHERS, ANY DAMAGE DONE IS COMPLETELY ON YOU. FOLLOW DISCORD'S [TERMS OF SERVICE](https://discord.com/terms)**
 
 ## setup guide
 1. first you have to install the dependencies listed below.
